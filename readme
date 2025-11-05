@@ -1,0 +1,68 @@
+# 🧠 Simple Quiz App
+
+A clean, interactive **Quiz Application** built using **vanilla HTML, CSS, and JavaScript**.  
+It presents users with multiple-choice questions, provides instant feedback, and displays the final score at the end — all in a smooth, responsive interface.
+
+---
+
+## 🚀 Features
+
+- ✅ **Multiple Choice Questions** – Dynamically loads questions and options from a JavaScript array.  
+- ⚡ **Immediate Feedback** – Correct answers turn **green**, incorrect ones turn **red** instantly.  
+- 📊 **Score Tracking** – Automatically counts and updates your score for each correct answer.  
+- 🏁 **Final Score Display** – Shows total score at the end of the quiz.  
+- 🔄 **Play Again Option** – Restart the quiz with one click.  
+- 🎨 **Clean UI** – Simple, centered, and fully responsive layout for all devices.
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|-------------|----------|
+| **HTML** | Provides the structure and layout of the quiz. |
+| **CSS** | Handles styling, colors, and responsive design. |
+| **JavaScript** | Powers quiz logic — question loading, user interaction, score calculation, and reset. |
+
+---
+
+## 📂 Project Structure
+📁 Simple-Quiz-App/
+│
+├── 📄 index.html # Structure of the quiz app
+├── 🎨 style.css # Styling and layout
+└── ⚙️ script.js # App logic and functionality
+
+🧩 My Learning
+
+While building this project, I learned how to:
+🧱 Use HTML to create structured and accessible web layouts.
+🎨 Apply CSS for responsive design and button feedback (correct/incorrect states).
+⚙️ Write JavaScript logic to dynamically load questions and handle user interaction.
+🔄 Implement event listeners for button clicks and quiz restarts.
+💡 Understand DOM manipulation, loops, and conditionals in real use cases.
+🧠 Manage application state (current question, score, and progress) efficiently.
+This project helped strengthen my core web development skills and gave me confidence in writing clean, functional vanilla JavaScript code.
+
+💡 Future Enhancements
+⏱️ Add a timer for each question.
+📈 Show progress bar or question counter.
+🧍 Store high scores using localStorage.
+🖼️ Add images, sounds, or animations for better engagement.
+🌐 Support multiple quiz categories or difficulty levels.
+
+
+---
+
+## ▶️ How to Run
+
+1. **Download or clone** this repository:  
+   ```bash
+   git clone https://github.com/yourusername/simple-quiz-app.git
+2. Open the project folder:
+   cd simple-quiz-app
+3. Run the app by opening the index.html file in any modern web browser:
+   Right-click → “Open with Browser”
+   Or simply double-click index.html
+   The quiz will start automatically!
+
